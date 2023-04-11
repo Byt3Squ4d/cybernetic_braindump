@@ -1,0 +1,4 @@
+baseURL = 'http://cyberneticbraindump.org/'
+languageCode = 'en-us'
+title = 'Cybernetic Braindump'
+theme = 'ananke'
